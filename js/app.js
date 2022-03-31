@@ -1,13 +1,9 @@
 //Menu right
 const bag =  document.querySelector('header .bag');
-
 const carrito = document.querySelector('#minicart');
 const contenedorCarrito =  document.querySelector('#lista-carrito tbody');
 const vaciarCarritoBtn =  document.querySelector('#vaciar-carrito');
-
 const cart =  document.querySelector('.cart');
-
-
 const closecartBtn = document.querySelector('.closecart');
 
 //Body
