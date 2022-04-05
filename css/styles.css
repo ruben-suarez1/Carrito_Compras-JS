@@ -76,7 +76,7 @@ p {
 }
 
 .cards {
-    padding: 3rem 0 0 0;
+    padding-top: 3rem;
 }
 
 @media(min-width:800px) {
@@ -84,6 +84,7 @@ p {
         display: flex;
         flex-wrap: wrap;
         justify-content: space-around;
+        padding: 3rem 0 0 0;
     }
     .card {
         width: 25%;
