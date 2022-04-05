@@ -88,6 +88,7 @@ p {
     }
     .card {
         width: 25%;
+        margin: 0 10px 20px 0;
     }
 }
 
@@ -100,7 +101,7 @@ p {
     overflow: hidden;
     line-height: 1.5rem;
     padding-bottom: 20px;
-    margin: 0 10px 20px 0;
+    margin: 0 10px 20px 10px;
 }
 .card img {
     object-fit: cover;
