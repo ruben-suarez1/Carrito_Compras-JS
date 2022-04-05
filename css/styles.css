@@ -74,12 +74,16 @@ p {
     right: -12px;
     top: 19px;
 }
+
+.cards {
+    padding: 3rem 0 0 0;
+}
+
 @media(min-width:800px) {
     .cards {
         display: flex;
         flex-wrap: wrap;
         justify-content: space-around;
-        padding: 3rem 0 0 0;
     }
     .card {
         width: 25%;
